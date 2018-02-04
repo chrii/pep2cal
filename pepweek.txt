@@ -1,0 +1,7 @@
+Montag:           11:00 bis 19:00 note: 
+Dienstag:         08:30 bis 16:30 note: 
+Mittwoch:         07:00 bis 14:00 note: 
+Donnerstag:       FREI  bis FREI  note: 
+Freitag:          14:00 bis 21:00 note: 
+Samstag:          FREI  bis FREI  note: 
+Sonntag:          09:30 bis 16:30 note:
